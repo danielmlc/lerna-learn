@@ -75,7 +75,7 @@ lerna publish
   "packages": [ // 指定存放包的位置
     "packages/*"
   ],
-  "version": "0.0.0" // 当前版本号
+  "version": "0.0.0" // 当前版本号  如果为独立版本模式 配置值应为independent
 }
 
 ```
