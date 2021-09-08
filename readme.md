@@ -23,7 +23,11 @@ lerna list
 # 下载依赖项目的依赖包
 lerna bootstrap
 
+# 创建新依赖项
+lerna create packages
+
 # 发布包
 lerna publish
+
 
 ```
